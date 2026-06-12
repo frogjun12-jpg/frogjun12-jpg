@@ -2,7 +2,7 @@
 
 # frogjun12-jpg
 
-AI, robotics, and smart factory projects built around practical automation.
+소프트웨어와 실제 산업 현장이 연결되는 부분을 만드는 개발자입니다.
 
 ### Tech Stack
 
@@ -23,6 +23,11 @@ AI, robotics, and smart factory projects built around practical automation.
 
 </div>
 
+## Introduce
+
+소프트웨어와 실제 산업 현장이 연결되는 지점을 만드는 개발자입니다.  
+AI, 로봇, 설비 데이터, 대시보드를 활용해 현장에서 바로 쓰일 수 있는 자동화 시스템을 구현하는 데 관심이 있습니다.
+
 ## Focus
 
 - AI 기반 농장 운영 자동화와 RAG 시스템
@@ -39,7 +44,7 @@ AI, robotics, and smart factory projects built around practical automation.
 
 ## Project Direction
 
-소프트웨어가 실제 현장과 만나는 지점을 좋아합니다. 농장 데이터, 로봇, 산업 설비, 대시보드, AI 도우미를 연결해 운영자가 더 빠르고 정확하게 판단할 수 있는 시스템을 만드는 방향으로 프로젝트를 확장하고 있습니다.
+농장 데이터, 로봇, 산업 설비, 대시보드, AI 도우미를 연결해 운영자가 더 빠르고 정확하게 판단할 수 있는 시스템을 만드는 방향으로 프로젝트를 확장하고 있습니다.
 
 ## Links
 
